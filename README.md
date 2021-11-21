@@ -16,3 +16,11 @@ The data for this project will be read into a CSV file (Find the dataset on the 
 - NLTK toolkit to perform common NLP tasks.
 - Sklearn library will be to implement the classification and clustering models.
 - Matplotlib and Seaborn to visualize and discuss the results of the analysis.
+#
+[Project Proposal](README.md)
+
+[Project MVP](MVP_Hotel_Review.md)
+
+[Project Presentation](https://github.com/Yassir6/Hotel_Review_NLP/blob/main/Hotel_Reviews_NLP_Presentation.pdf)
+
+[Project Code](Hotel_Reviews_NLP.ipynb)
